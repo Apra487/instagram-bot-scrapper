@@ -1,17 +1,24 @@
 {
-  "name": "instagram-bot",
+  "name": "instagram-bot-scrapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "A node js application that collects instagram user data.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apra487/instagram-bot-scrapper.git"
+  },
+  "author": "Apratim Mahata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apra487/instagram-bot-scrapper/issues"
+  },
+  "homepage": "https://github.com/Apra487/instagram-bot-scrapper#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "google-spreadsheet": "^3.0.13",
-    "puppeteer": "^5.3.1"
+    "puppeteer": "^5.4.1"
   }
 }
