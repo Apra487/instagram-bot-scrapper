@@ -1,6 +1,6 @@
 # instagram-bot(scrapper)
 
-This is a instagram bot/scrapper that scrapes any user's pofile data.
+This is an instagram bot/scrapper that scrapes any user's pofile data.
 
 Written in JavaScript using puppeteer.
 
