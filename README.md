@@ -53,7 +53,7 @@ PASSWORD=123445
 npm install
 ```
 
-## Usage
+## Usage🚀
 
 So you're done with the installation. But, how do you use it?
 
