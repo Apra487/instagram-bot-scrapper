@@ -66,7 +66,7 @@ node index.js https://www.old.reddit.com/r/nextfuckinglevel/comments/j90u9d/this
 ```
 
 <br>
-NOTE :: I made this project oly for educational purposes and for my personal usage and NOT for any buisness or any kind of monetary thing.
+NOTE :: I made this project only for educational purposes and for my personal usage and NOT for any buisness or any kind of monetary thing.
 
 
 
