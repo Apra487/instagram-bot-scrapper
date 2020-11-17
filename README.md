@@ -1,4 +1,4 @@
-# instagram-bot(scrapper)
+# Instagram-bot(scrapper)
 
 This is an instagram bot/scrapper that scrapes any user's pofile data.
 
